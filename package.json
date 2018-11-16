@@ -1,0 +1,26 @@
+{
+  "name": "testingtesttest",
+  "version": "1.0.0",
+  "description": "all about testing test",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abpaula/TestingJest.git"
+  },
+  "keywords": [
+    "jest",
+    "test"
+  ],
+  "author": "abpaula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abpaula/TestingJest/issues"
+  },
+  "homepage": "https://github.com/Abpaula/TestingJest#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
